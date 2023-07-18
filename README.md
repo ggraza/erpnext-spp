@@ -23,7 +23,7 @@ Raw material source warehouse and Finished products destination warehouse are se
 #### Installation
 
 ```shell
-bench get-app spp https://github.com/hiousi/erpnext-spp
+bench get-app spp https://github.com/ggraza/erpnext-spp
 bench --site site1.local install-app spp `
 ```
 
